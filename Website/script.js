@@ -1,3 +1,4 @@
+//ku jei o dipa
 // Custom Cursor
 const cursor = document.querySelector('.cursor');
 let mouseX = 0;
